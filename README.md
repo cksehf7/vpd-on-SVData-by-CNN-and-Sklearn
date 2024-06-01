@@ -1,4 +1,4 @@
-# vpd-on-SVData-by-CNN-and-Sklearn
+# VPD on SVD dataset by CNN and Sklearn
 ***Codes from my term project for Advanced ML course***  
 
 This project contains a series of processes to do VPD(Voice Pathology Detection) task with SVD datasets.  
